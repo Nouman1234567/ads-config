@@ -4,7 +4,7 @@
 
   "providers": {
     "levelplay": {
-      "appKey": "PUT_YOUR_LEVELPLAY_APP_KEY_HERE",
+      "appKey": "25d985605",
       "bannerAdUnitId": "mzr9s8o06iq361g7",
       "interstitialAdUnitId": "8psdrwpshyi0ap61",
       "nativeAdUnitId": "6tb114h5tox9b23n",
