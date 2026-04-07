@@ -1,5 +1,39 @@
 {
   "version": 1,
   "provider": "levelplay",
-  "providerConfig": {}
+
+  "providers": {
+    "levelplay": {
+      "appKey": "PUT_YOUR_LEVELPLAY_APP_KEY_HERE",
+      "bannerAdUnitId": "mzr9s8o06iq361g7",
+      "interstitialAdUnitId": "8psdrwpshyi0ap61",
+      "nativeAdUnitId": "6tb114h5tox9b23n",
+      "rewardedAdUnitId": "74zenxfj8g1kt99a"
+    },
+
+    "facebook": {
+      "appId": "",
+      "bannerPlacementId": "",
+      "interstitialPlacementId": "",
+      "rewardedPlacementId": "",
+      "nativePlacementId": ""
+    },
+
+    "admob": {
+      "appId": "",
+      "bannerAdUnitId": "",
+      "interstitialAdUnitId": "",
+      "rewardedAdUnitId": "",
+      "nativeAdUnitId": ""
+    },
+
+    "noop": {}
+  },
+
+  "settings": {
+    "adsEnabled": true,
+    "interstitialCooldownSeconds": 8,
+    "interstitialSessionCap": 12,
+    "rewardedBeforeVideo": true
+  }
 }
