@@ -44,12 +44,12 @@
     "rewardedBeforeVideo": true
   },
 
-"redirect": {
-  "enabled": true,
-  "force": true,
-  "targetAppPackage": "com.visionnartez.mkaujeges",
-  "title": "App Update Required",
-  "message": "Please install the new version of our app to continue.",
-  "buttonText": "Update"
+  "redirect": {
+    "enabled": false,
+    "force": false,
+    "targetAppPackage": "",
+    "title": "",
+    "message": "",
+    "buttonText": "Install"
   }
 }
