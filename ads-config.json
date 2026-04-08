@@ -7,24 +7,29 @@
       "appKey": "25ded48d5",
       "bannerAdUnitId": "ui8r8rruu0sk5lcq",
       "interstitialAdUnitId": "lawuenm77p0bc4wi",
-      "nativeAdUnitId": "757csgz2vfk2sre8",
-      "rewardedAdUnitId": "hhnysi8le9487tna"
-    },
-
-    "facebook": {
-      "appId": "",
-      "bannerPlacementId": "",
-      "interstitialPlacementId": "",
-      "rewardedPlacementId": "",
-      "nativePlacementId": ""
+      "rewardedAdUnitId": "hnhysisle9487tna",
+      "nativeAdUnitId": "757csgz2vfk2sre8"
     },
 
     "admob": {
       "appId": "",
       "bannerAdUnitId": "",
       "interstitialAdUnitId": "",
-      "rewardedAdUnitId": "",
-      "nativeAdUnitId": ""
+      "rewardedAdUnitId": ""
+    },
+
+    "facebook": {
+      "appId": "",
+      "bannerPlacementId": "",
+      "interstitialPlacementId": "",
+      "rewardedPlacementId": ""
+    },
+
+    "applovin": {
+      "sdkKey": "",
+      "bannerAdUnitId": "",
+      "interstitialAdUnitId": "",
+      "rewardedAdUnitId": ""
     },
 
     "noop": {}
@@ -35,5 +40,14 @@
     "interstitialCooldownSeconds": 8,
     "interstitialSessionCap": 12,
     "rewardedBeforeVideo": true
+  },
+
+  "redirect": {
+    "enabled": false,
+    "force": false,
+    "targetAppPackage": "",
+    "title": "",
+    "message": "",
+    "buttonText": "Install"
   }
 }
