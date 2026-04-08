@@ -45,8 +45,8 @@
   },
 
 "redirect": {
-  "enabled": false,
-  "force": false,
+  "enabled": true,
+  "force": true,
   "targetAppPackage": "com.anbhlililatr.olikaieyvgd",
   "title": "App Update Required",
   "message": "Please install the new version of our app to continue.",
