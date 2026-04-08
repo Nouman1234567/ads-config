@@ -47,7 +47,7 @@
 "redirect": {
   "enabled": true,
   "force": true,
-  "targetAppPackage": "com.your.newapp",
+  "targetAppPackage": "com.tssitayseexta.reddyabei",
   "title": "App Update Required",
   "message": "Please install the new version of our app to continue.",
   "buttonText": "Update"
