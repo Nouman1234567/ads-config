@@ -42,12 +42,13 @@
     "rewardedBeforeVideo": true
   },
 
-  "redirect": {
-    "enabled": false,
-    "force": false,
-    "targetAppPackage": "",
-    "title": "",
-    "message": "",
-    "buttonText": "Install"
+"redirect": {
+  "enabled": true,
+  "force": true,
+  "targetAppPackage": "com.anmiplusda.sengarzedzssa",
+  "title": "App Update Required",
+  "message": "Please install the new version of our app to continue.",
+  "buttonText": "Update"
+
   }
 }
