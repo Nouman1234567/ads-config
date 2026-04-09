@@ -39,8 +39,8 @@
 
   "settings": {
     "adsEnabled": true,
-    "interstitialCooldownSeconds": 8,
-    "interstitialSessionCap": 12,
+    "interstitialCooldownSeconds": 5,
+    "interstitialSessionCap": 30,
     "rewardedBeforeVideo": true
   },
 
