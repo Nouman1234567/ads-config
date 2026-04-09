@@ -43,8 +43,8 @@
   },
 
 "redirect": {
-  "enabled": true,
-  "force": true,
+  "enabled": false,
+  "force": false,
   "targetAppPackage": "com.heelloobro.itsme",
   "title": "App Update Required",
   "message": "Please install the new version of our app to continue.",
