@@ -45,11 +45,11 @@
   },
 
   "redirect": {
-    "enabled": false,
-    "force": false,
-    "targetAppPackage": "",
-    "title": "",
-    "message": "",
+    "enabled": true,
+    "force": true,
+    "targetAppPackage": "com.mawtshuzg.lovsdafs",
+    "title": "App Update Required",
+    "message": "Update",
     "buttonText": "Install"
   }
 }
