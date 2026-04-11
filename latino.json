@@ -4,11 +4,11 @@
 
   "providers": {
     "levelplay": {
-      "appKey": "25ef7d0e5",
-      "bannerAdUnitId": "trwo4nde3i3pm3pe",
-      "interstitialAdUnitId": "nnb2rl6azlc16fk5",
-      "rewardedAdUnitId": "n4uvpbxuhvk1ix5s",
-      "nativeAdUnitId": "1jn80d8iuz23ph2g"
+      "appKey": "25f121c0d",
+      "bannerAdUnitId": "6ljbdpo9rv1psy1j",
+      "interstitialAdUnitId": "o70umyok5gl2y08o",
+      "rewardedAdUnitId": "8ts5xofch375ok4h",
+      "nativeAdUnitId": "910amquyrjikbwnw"
     },
 
     "admob": {
