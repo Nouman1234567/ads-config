@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "provider": "levelplay",
+
+  "providers": {
+    "levelplay": {
+      "appKey": "25f101645",
+      "bannerAdUnitId": "p1wvo5kbw4isyrqb",
+      "interstitialAdUnitId": "09mt3b4wbakx3xeq",
+      "rewardedAdUnitId": "w35dflkzpibbhtqa",
+      "nativeAdUnitId": "tqxeitc794gk3c0l"
+    },
+
+    "admob": {
+      "appId": "",
+      "bannerAdUnitId": "",
+      "interstitialAdUnitId": "",
+      "rewardedAdUnitId": ""
+    },
+
+    "facebook": {
+      "appId": "",
+      "bannerPlacementId": "",
+      "interstitialPlacementId": "",
+      "rewardedPlacementId": ""
+    },
+
+    "applovin": {
+      "sdkKey": "",
+      "bannerAdUnitId": "",
+      "interstitialAdUnitId": "",
+      "rewardedAdUnitId": ""
+    },
+
+    "noop": {}
+  },
+
+  "settings": {
+    "adsEnabled": true,
+    "interstitialCooldownSeconds": 5,
+    "interstitialSessionCap": 30,
+    "rewardedBeforeVideo": true
+  },
+
+  "redirect": {
+    "enabled": false,
+    "force": false,
+    "targetAppPackage": "",
+    "title": "",
+    "message": "",
+    "buttonText": "Install"
+  }
+}
