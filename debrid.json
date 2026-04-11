@@ -4,11 +4,11 @@
 
   "providers": {
     "levelplay": {
-      "appKey": "25f101645",
-      "bannerAdUnitId": "p1wvo5kbw4isyrqb",
-      "interstitialAdUnitId": "09mt3b4wbakx3xeq",
-      "rewardedAdUnitId": "w35dflkzpibbhtqa",
-      "nativeAdUnitId": "tqxeitc794gk3c0l"
+      "appKey": "25ef7d0e5",
+      "bannerAdUnitId": "trwo4nde3i3pm3pe",
+      "interstitialAdUnitId": "nnb2rl6azlc16fk5",
+      "rewardedAdUnitId": "n4uvpbxuhvk1ix5s",
+      "nativeAdUnitId": "1jn80d8iuz23ph2g"
     },
 
     "admob": {
@@ -49,6 +49,5 @@
     "title": "",
     "message": "",
     "buttonText": "Install"
-
   }
 }
