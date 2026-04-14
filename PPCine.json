@@ -19,10 +19,10 @@
     },
 
     "facebook": {
-      "appId": "",
-      "bannerPlacementId": "",
-      "interstitialPlacementId": "",
-      "rewardedPlacementId": ""
+      "appId": "1863869090939569",
+      "bannerPlacementId": "1863869090939569_1863869580939520",
+      "interstitialPlacementId": "1863869090939569_1863869727606172",
+      "rewardedPlacementId": "1863869090939569_1863869847606160"
     },
 
     "applovin": {
