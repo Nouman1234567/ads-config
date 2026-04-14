@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "provider": "levelplay",
+  "provider": "facebook",
 
   "providers": {
     "levelplay": {
@@ -19,10 +19,10 @@
     },
 
     "facebook": {
-      "appId": "",
-      "bannerPlacementId": "",
-      "interstitialPlacementId": "",
-      "rewardedPlacementId": ""
+      "appId": "1503605441476728",
+      "bannerPlacementId": "1503605441476728_1503606621476610",
+      "interstitialPlacementId": "1503605441476728_1503606654809940",
+      "rewardedPlacementId": "1503605441476728_1503606744809931"
     },
 
     "applovin": {
