@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "provider": "levelplay",
+  "provider": "facebook",
 
   "providers": {
     "levelplay": {
-      "appKey": "25ef7d0e5",
-      "bannerAdUnitId": "trwo4nde3i3pm3pe",
-      "interstitialAdUnitId": "nnb2rl6azlc16fk5",
-      "rewardedAdUnitId": "n4uvpbxuhvk1ix5s",
-      "nativeAdUnitId": "1jn80d8iuz23ph2g"
+      "appKey": "1863869090939569",
+      "bannerAdUnitId": "1863869090939569_1863869580939520",
+      "interstitialAdUnitId": "1863869090939569_1863869727606172",
+      "rewardedAdUnitId": "1863869090939569_1863869847606160",
+      "nativeAdUnitId": "1863869090939569_1863869774272834"
     },
 
     "admob": {
