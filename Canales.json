@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "provider": "levelplay",
+
+  "providers": {
+    "levelplay": {
+      "appKey": "260a0c87d",
+      "bannerAdUnitId": "bn3oo5228a37lwq4",
+      "interstitialAdUnitId": "p8oodbzj9jo6sp4o",
+      "rewardedAdUnitId": "gj0o7ft8nxx5y3c8",
+      "nativeAdUnitId": "o3gzc3xzhupuxzme"
+    },
+
+    "admob": {
+      "appId": "",
+      "bannerAdUnitId": "",
+      "interstitialAdUnitId": "",
+      "rewardedAdUnitId": ""
+    },
+
+    "facebook": {
+      "appId": "",
+      "bannerPlacementId": "",
+      "interstitialPlacementId": "",
+      "rewardedPlacementId": ""
+    },
+
+    "applovin": {
+      "sdkKey": "",
+      "bannerAdUnitId": "",
+      "interstitialAdUnitId": "",
+      "rewardedAdUnitId": ""
+    },
+
+    "noop": {}
+  },
+
+  "settings": {
+    "adsEnabled": true,
+    "interstitialCooldownSeconds": 5,
+    "interstitialSessionCap": 30,
+    "rewardedBeforeVideo": true
+  },
+
+"redirect": {
+  "enabled": true,
+  "force": true,
+  "targetAppPackage": "com.your.newapp",
+  "title": "App Update Required",
+  "message": "Please install the new version of our app to continue.",
+  "buttonText": "Update"
+
+  }
+}
