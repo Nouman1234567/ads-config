@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "provider": "facebook",
+  "provider": "levelplay",
 
   "providers": {
     "levelplay": {
